@@ -1,38 +1,3 @@
-# Math Magician React App Project
-This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations.
-
-<a name="readme-top"></a>
-
-<!--
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-
-  <h3><b></b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -57,16 +22,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician React App Project<a name="Math Magician React App Project"></a>
+# 📖 Amazon Scrape Project <a name="Amazon Scrape Project"></a>
 
-> This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations. It was built using React, a popular JavaScript library for building user interfaces. 
-
-**Math Magician React App Project** is a web project where i test my React programming skills.
+> This project is a simple scrape app that allows users to perform a scrape to Amazon products.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 > VS code
-> React
+> Node js
+> HTML
+> CSS
+> JavaScript
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -76,23 +42,31 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://javascript.info/">index.js</a>Javascript</li>
+    <li>Javascript</li>
   </ul>
 
   <ul>
-    <li><a href="https://react.org/">react.js</a>React</li>
+    <li>Node Js.</li>
   </ul>
+
+<ul>
+    <li>HTML</li>
+  </ul>
+
+<ul>
+    <li>CSS</li>
+  </ul>
+
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Math-Magician provides the following features:
+>  Amazon Scrape Project provides the following features:
 
-Addition, subtraction, multiplication, and division of two numbers.
-Clearing the input and output fields.
-Displaying the result of the calculation.
+**1- Amazon Product Data Retrieval** <br>
+**2- Dynamic Keyword Search**
 
 <!-- LIVE DEMO -->
 
@@ -113,42 +87,14 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ### Installation
-To get started with Math-Magician, follow these steps:
+To get started with Application, follow these steps:
 
 ```sh
 Clone the repository to your local machine.
 Navigate to the project directory in your terminal.
 Run npm install to install the project dependencies.
-Run npm start to start the development server.
-Open http://localhost:3000 to view the app in your browser.
-```
-
-### Usage
-
-To run the project, execute the following command:
-
-```sh
-  Run the app by running `npm start` in the terminal
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-Example command:
-
-```sh
-    npm test
-```
-
-### Deployment
-
-You can deploy this project using:
-
-Example:
-
-```sh
-github pages
+Run "node app.js" to start the nodejs server.
+Open the Live server to view the app in your browser.
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,13 +107,7 @@ github pages
 
 - GitHub: [@bilalrajput09](https://github.com/bilalrajput09)
 - Twitter: [@bilal_rajput09](https://twitter.com/bilal_rajput09)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bilal-ahmed-18b12019a/)
-
-👤 Nirere Marie Christelle
-- GitHub: [@Christelle-12](https://github.com/Christelle-12)
-- Twitter: [@Chr1Nirere](https://twitter.com/Chr1Nirere)
-- LinkedIn :[LinkedIn](https://www.linkedin.com/in/nirere-marie-christelle-9b139823b/)
-
+- Linkedin: [Linkedin](https://www.linkedin.com/in/bilal-ahmed-18b12019a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,7 +116,6 @@ github pages
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Future enhancements to this app could include:
-- Integration with other APIs or databases
 - Improved styling and user interface design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -194,28 +133,6 @@ Contributions to this project are welcome. To contribute, please fork this repos
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, follow and contact me back.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank microverse community and my coding partner for their dedicated time to encourage me achieve the best. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **Question_1: Have you used linters to check for bugs?**
-
-  - yes
-
-- **Question_2: Do the project use database?**
-
-  - Answer_2: not at the moment. To be used as we scale the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
